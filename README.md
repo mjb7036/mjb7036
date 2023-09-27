@@ -1,4 +1,4 @@
-Hi! I'm Michael, a 3rd year CS student at RIT.
+Hi! I'm Michael, a 4th year CS student at RIT.
 Expected graduation in May 2025
 
 <!---
